@@ -1,2 +1,7 @@
-# ll-music
-Music and music-adjacent projects from the Bok Learning Lab 
+Introduction to Git
+
+1
+2
+3
+4
+5 6 7
